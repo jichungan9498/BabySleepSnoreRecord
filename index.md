@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Baby Sleep Snore Record
 
-You can use the [editor on GitHub](https://github.com/jichungan9498/BabySleepSnoreRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Does your baby ever snore during sleep? Some babies snore loudly, others snore quietly. If your baby is experiencing this problem, you should pay more attention and take care of your baby. You can use the app to record how long your baby snores, how loud your baby snores, and where he snores. You can collect and record this information to help your baby stop snoring and grow healthily.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-```markdown
-Syntax highlighted code block
+We will answer them for you in the first time.
 
-# Header 1
-## Header 2
-### Header 3
+### Address: jichungan9498@163.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jichungan9498/BabySleepSnoreRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
